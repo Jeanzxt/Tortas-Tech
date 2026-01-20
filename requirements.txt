@@ -1,0 +1,9 @@
+Flask
+pandas
+openpyxl
+
+------------------------------
+
+para instalar tudo basta executar no terminal:
+
+pip install -r requirements.txt
