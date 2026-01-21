@@ -1,2 +1,1 @@
-# Tortas-Tech
-PARA ACESSAR O ADMIN: SHIFT+CTRL+Ç
+
